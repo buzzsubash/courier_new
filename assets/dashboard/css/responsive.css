@@ -1,0 +1,111 @@
+@media(max-width: 1100px){
+    .column-forms{
+        margin: 0;
+    }
+    .column-forms > div{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    .column-forms .addb-20{
+        margin-bottom: 20px
+    }
+}
+
+@media(max-width: 991px){
+    .datatable-container,
+    .config-container{
+        overflow-x: auto;
+    }
+    div.dataTables_wrapper{
+        width: 1000px !important
+    }
+    .config-container > div,
+    .config-container > form{
+        width: 900px !important;
+    }
+}
+
+@media(max-width: 767px){
+    .mini-sidebar .page-wrapper { 
+        padding-top: 56px;
+    }
+    .addb-20{
+        margin-bottom: 20px;
+    }
+    .config-container .col-md-4{
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+}
+
+@media(max-width: 643px){
+    body,
+    .form-control{
+        font-size: 12px
+    }
+    .page-titles h3{
+        font-size: 18px
+    }
+    .container-fluid {
+        padding: 0 15px 25px;
+    }
+    .card-title,
+    .modal-title,
+    .config-header h3{
+        font-size: 16px
+    }
+}
+
+@media(max-width: 580px){
+    #bulkVendors .modal-dialog {
+        margin: 1.75rem auto;
+    }
+    .error-body h1 {
+        font-size: 100px;
+    }
+    .error-body h3 {
+        font-size: 18px;
+    }
+    .error-body a {
+        font-size: 12px;
+    }
+}
+
+@media(max-width: 480px){
+    .card {
+        padding: 15px;
+    }
+    .login-box{
+        max-width: 100%;
+        left: 0;
+        margin:-133px 0 0;
+        padding: 0 20px;
+    }
+    .login-title{
+        font-size: 28px;
+    }
+    .login-box.w-error{
+        margin-top: -163px;
+    }
+    .action-buttons{
+        float: none !important;
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 420px){
+    #bulkVendors .modal-dialog{
+        max-width: 100% !important;
+        margin:0;
+        padding:10px;
+    }
+}
+
+@media(max-width: 320px){
+    .login-box.w-error{
+        margin-top: -172px;
+    }
+}
