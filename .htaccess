@@ -17,6 +17,7 @@ RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+Redirect 301 /courier/tracking-pharmeasy https://couriertracking.org.in/shopping/tracking-pharmeasy
 Redirect 301 /tracking-1mg-order.php https://couriertracking.org.in/shopping/tracking-1mg
 Redirect 301 /tracking-7-horse-logistics-courier.php https://couriertracking.org.in/courier/tracking-7horselogistics
 Redirect 301 /tracking-a-b-c-india-courier.php https://couriertracking.org.in/courier/tracking-abcindia
