@@ -1,4 +1,2 @@
 User-agent: Mediapartners-Google
 Disallow: /
-
-Sitemap: https://couriertracking.org.in/sitemap.xml

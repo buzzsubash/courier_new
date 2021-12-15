@@ -10,9 +10,10 @@
 		@media(min-width: 800px) { .cenqo_header { width: 330px; height: 55px; } }
 	</style>
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Couriertracking.org.in - Body 1 -->
+	<!-- Couriertracking.org.in - Header -->
 	<ins class="adsbygoogle cenqo_header"
 		 style="display:inline-block"
+		 data-full-width-responsive="true"
 		 data-ad-client="ca-pub-6247788451623601"
 		 data-ad-slot="8751389813"></ins>
 	<script>
