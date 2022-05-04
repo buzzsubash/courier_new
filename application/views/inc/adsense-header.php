@@ -13,7 +13,7 @@
 	<!-- Couriertracking.org.in - Header -->
 	<ins class="adsbygoogle cenqo_header"
 		 style="display:inline-block"
-		 data-full-width-responsive="true"
+		 data-full-width-responsive="false"
 		 data-ad-client="ca-pub-6247788451623601"
 		 data-ad-slot="8751389813"></ins>
 	<script>

@@ -10,7 +10,7 @@
 	<!-- Couriertracking.org.in - H1 Title [previously link ad unit] -->
 	<ins class="adsbygoogle cenqo_header"
 		 style="display:inline-block"
-		 data-full-width-responsive="true"
+		 data-full-width-responsive="false"
 		 data-ad-client="ca-pub-6247788451623601"
 		 data-ad-slot="6754291179"></ins>
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6247788451623601" crossorigin="anonymous"></script>

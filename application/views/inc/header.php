@@ -15,17 +15,15 @@
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Montserrat:wght@500;700&display=swap"  as="font" type="font/woff2" crossorigin>
         <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" async></script>
 
-
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106331225-1"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0X29X6V7MN"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 
-			gtag('config', 'UA-106331225-1');
+			gtag('config', 'G-0X29X6V7MN');
 		</script>
-
 
 		<style>
 			/* advertisement box */

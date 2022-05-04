@@ -9,7 +9,7 @@
 		 data-ad-client="ca-pub-6247788451623601"
 		 data-ad-slot="9976627911"
 		 data-ad-format="auto"
-		 data-full-width-responsive="true"></ins>
+		 data-full-width-responsive="false"></ins>
 	<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 	</script>
