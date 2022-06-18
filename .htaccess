@@ -17,6 +17,12 @@ RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+Redirect 301 /courier/tracking-railwayparcel https://couriertracking.org.in/courier/tracking-indianrailway
+Redirect 301 /shopping/tracking-railwayparcel https://couriertracking.org.in/courier/tracking-indianrailway
+Redirect 301 /shopping/tracking-indianrailway https://couriertracking.org.in/courier/tracking-indianrailway
+Redirect 301 /courier/tracking-miredmiindia https://couriertracking.org.in/shopping/tracking-miredmiindia
+
+
 Redirect 301 /courier/tracking-pharmeasy https://couriertracking.org.in/shopping/tracking-pharmeasy
 Redirect 301 /tracking-1mg-order.php https://couriertracking.org.in/shopping/tracking-1mg
 Redirect 301 /tracking-7-horse-logistics-courier.php https://couriertracking.org.in/courier/tracking-7horselogistics
@@ -223,7 +229,6 @@ Redirect 301 /tracking-india-international-courier.php https://couriertracking.o
 Redirect 301 /tracking-india-post-courier.php https://couriertracking.org.in/courier/tracking-indiaregisteredspeedpost
 Redirect 301 /tracking-india-registered-speed-post-courier.php https://couriertracking.org.in/courier/tracking-indiaregisteredspeedpost
 Redirect 301 /tracking-indian-express-courier.php https://couriertracking.org.in/courier/tracking-indianexpress
-Redirect 301 /tracking-indian-railway-parcel.php https://couriertracking.org.in/courier/tracking-indianrailway
 Redirect 301 /tracking-indiarush-order.php https://couriertracking.org.in/shopping/tracking-indiarush
 Redirect 301 /tracking-indo-express-courier.php https://couriertracking.org.in/courier/tracking-indoexpress
 Redirect 301 /tracking-indrapuri-express-courier.php https://couriertracking.org.in/courier/tracking-indrapuriexpress
