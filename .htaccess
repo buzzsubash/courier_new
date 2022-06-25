@@ -22,7 +22,8 @@ Redirect 301 /shopping/tracking-railwayparcel https://couriertracking.org.in/cou
 Redirect 301 /shopping/tracking-indianrailway https://couriertracking.org.in/courier/tracking-indianrailway
 Redirect 301 /courier/tracking-miredmiindia https://couriertracking.org.in/shopping/tracking-miredmiindia
 
-
+Redirect 301 /tracking-uc-global-courier.php https://couriertracking.org.in/courier/tracking-ucglobal
+Redirect 301 /tracking-1mg-order.php https://couriertracking.org.in/shopping/tracking-1mg
 Redirect 301 /courier/tracking-pharmeasy https://couriertracking.org.in/shopping/tracking-pharmeasy
 Redirect 301 /tracking-1mg-order.php https://couriertracking.org.in/shopping/tracking-1mg
 Redirect 301 /tracking-7-horse-logistics-courier.php https://couriertracking.org.in/courier/tracking-7horselogistics
